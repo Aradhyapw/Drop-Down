@@ -15,10 +15,10 @@ body{
 /* App component style */
 .app{
   height: 50vh;
-  background-color: #bba9f0;
+  background-color: #aeb2e2;
   padding: 20px 40px;
   position: relative;
-  border-radius: 4%;
+  border-radius: 5%;
 }
 .ans-p{
   position: absolute;
